@@ -1,0 +1,9 @@
+php - Hypertext Preprocessor (earlier called Personal Home Page)
+------------------------------------------------------------------------
+php is a server side scripting language
+-----------------------------------------------------------------------
+php
+mysql
+apche web server
+------------------------------------------------------------------------
+c/xampp/htdocs  -> copy the whole working folder into this
