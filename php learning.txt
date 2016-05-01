@@ -7,3 +7,12 @@ mysql
 apche web server
 ------------------------------------------------------------------------
 c/xampp/htdocs  -> copy the whole working folder into this
+
+
+asdasdasdas
+asd
+as
+dasda
+d123
+123
+1213
